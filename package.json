@@ -1,0 +1,14 @@
+{
+			  "name": "crystal-1ieezzb9",
+			  "version": "4.3.74",
+			  "description": "A beautiful gallery of reef and frosty exploring the meteor nature.",
+			  "private": true,
+			  "license": "MIT",
+			  "scripts": {
+			    "dev": "netlify dev",
+			    "build": "echo 'No build step required'"
+			  },
+			  "devDependencies": {
+			    "netlify-cli": "latest"
+			  }
+			}
